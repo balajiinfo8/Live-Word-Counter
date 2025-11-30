@@ -1,4 +1,5 @@
-https://balajiinfo8.github.io/Live-Character-Count/
+https://balajiinfo8.github.io/Live-Word-Counter/
+
 
 Project Title
 Live Character Count (Excluding Spaces)
